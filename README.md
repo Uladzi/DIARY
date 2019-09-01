@@ -1,3 +1,3 @@
 # DIARY
 Homework 1a  
-uladzi.github.io/DIARY  
+https://uladzi.github.io/DIARY/
